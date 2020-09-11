@@ -1,1 +1,3 @@
 # MNIST_numeric_classifier
+
+MNISTデータセットを用いた手書き数字分類機の試作
